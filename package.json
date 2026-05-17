@@ -1,6 +1,6 @@
 {
-  "name": "football-penalty-shootout",
-  "version": "1.0.0",
+  "name": "world-penalty-cup-arena",
+  "version": "2.0.0",
   "private": true,
   "scripts": {
     "dev": "vite",
@@ -8,10 +8,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "latest",
-    "vite": "latest",
     "react": "latest",
     "react-dom": "latest"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest"
+  }
 }
